@@ -1,5 +1,0 @@
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-Accept-Language: en
-User-Agent: Scrapy/1.5.0 (+https://scrapy.org)
-Accept-Encoding: gzip,deflate
-Cookie: WMF-Last-Access=24-May-2018; WMF-Last-Access-Global=24-May-2018; GeoIP=US:NY:New_York:40.74:-73.98:v4
