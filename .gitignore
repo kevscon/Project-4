@@ -1,6 +1,7 @@
 /.ipynb_checkpoints
-speech_data_nltk.ipynb
 /data
+/img
+/model_output
 /OLD
-/images
-/presentation
+/_site
+requirements.txt
