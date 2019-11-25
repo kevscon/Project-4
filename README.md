@@ -1,8 +1,6 @@
-# War Talk - Presidential Speech During Wartime
+# War Talk -- NLP of Presidential Speech During Wartime
 
 ## Summary
-I investigated the following two questions in this project:
-- Are there patterns to how president's discuss war throughout US history?
-- Can a president's commitment to a conflict be inferred based on their speech?
+Presidential addresses (written and spoken) were analyzed for patterns during wartime. Clustering algorithms were used to group language into different categories. The prevalence of these categories was visualized to compare conflicts during different presidential administrations.
 
 Python 3.6.5
